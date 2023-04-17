@@ -24,7 +24,7 @@ Description:
 This was a chart that I sort of took from homework number nine. I know that I at least got the main parts from there but I also think I changed it a little. Anyway, I wanted to go with something simple that would also be effective so I wanted to use a bar graph and I wanted to aggreagate the data in some way. So I chose to stick with the agencies since I used those in the previous visual and then I chose to aggregate and count the agencies to see which one was the most popular or large. This was very simple but it was also really effective since it was easy to answer my question and it made it really easy to see. This one was a lot easier to figure out how to transform since it was super similar to the previous but way more simple. It as a pain to convert everything using Altair though. I had to rewatch the lectures and use the internet a ton to figure that part out and make sure that I was doing it correctly. 
 
 <div class="left">
-{% include elements/button.html link="'https://github.com/Zairzok/zairzok.github.io/blob/main/_data/building_inventory.csv" text="The Data" %}
+{% include elements/button.html link="https://github.com/Zairzok/zairzok.github.io/blob/main/_data/building_inventory.csv" text="The Data" %}
 </div>
 
 <div class="right">
