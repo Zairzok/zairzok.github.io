@@ -1,8 +1,8 @@
 ---
 name: IS445 Final Project (IMDb Movies Dataset)
 tools: [Python, HTML, vega-lite]
-image: assets/pngs/chart_static.png
-description: This is a "showcase" project that uses vega-lite for interactive viz!
+image: assets/pngs/imdb_logo.png
+description: This is a "showcase" project that uses vega-lite & Altair & Python for interactive viz!
 custom_js:
   - vega.min
   - vega-lite.min
@@ -18,7 +18,7 @@ Interactive Chart:
 Description: 
 
 Static Chart:
-<vegachart schema-url="{{ site.baseurl }}/assets/json/final_pt2_interactive2.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/final_pt2_interactive1.json" style="width: 100%"></vegachart>
 Description: need to edit so that the histogram has correct labels
 
 
