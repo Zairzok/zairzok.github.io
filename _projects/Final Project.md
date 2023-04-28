@@ -14,7 +14,7 @@ custom_js:
 # IMDb Movies Dataset!
 
 Interactive Chart:
-<vegachart schema-url="{{ site.baseurl }}/assets/json/final_pt2_interactive1.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/final_pt2_interactive_final.json" style="width: 100%"></vegachart>
 Description: 
 
 Static Chart:
