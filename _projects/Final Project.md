@@ -18,8 +18,16 @@ Interactive Chart:
 Description: 
 
 Static Chart:
-<vegachart schema-url="{{ site.baseurl }}/assets/json/final_pt2_interactive1.json" style="width: 100%"></vegachart>
-Description: need to edit so that the histogram has correct labels
+<vegachart schema-url="{{ site.baseurl }}/assets/json/final_pt2_Title_Budget_Basic.json" style="width: 100%"></vegachart>
+Description: 
+
+Static Chart:
+<vegachart schema-url="{{ site.baseurl }}/assets/json/final_pt2_Title_Rating_Basic.json" style="width: 100%"></vegachart>
+Description: 
+
+Static Chart:
+<vegachart schema-url="{{ site.baseurl }}/assets/json/final_pt2_Title_Budget_Line.json" style="width: 100%"></vegachart>
+Description: 
 
 
 <div class="left">
