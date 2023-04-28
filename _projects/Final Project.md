@@ -27,7 +27,7 @@ Thank you for reading!
 
 
 Interactive Chart:
-<vegachart schema-url="{{ site.baseurl }}/assets/json/final_pt2_interactive_final.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/chart.json" style="width: 100%"></vegachart>
 
 Interactive Chart:
 <vegachart schema-url="{{ site.baseurl }}/assets/json/final_pt2_interactive_test.json" style="width: 100%"></vegachart>
