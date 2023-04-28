@@ -26,18 +26,23 @@ Thank you for reading!
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/final_pt2_interactive_final.json" style="width: 100%"></vegachart>
 
-Interactive Visual of Year vs. Income in Relation to Rating:
+# Interactive Visual of Year vs. Income in Relation to Rating:
 <vegachart schema-url="{{ site.baseurl }}/assets/json/final_pt2_interactive_test.json" style="width: 100%"></vegachart>
+Source: Jacob Peterson's Jupyter Notebook (Hit "The Analysis" Button to Learn More!)
 
-Static Visual of Titles & Their Budgets:
+# Static Visual of Titles & Their Budgets:
 <vegachart schema-url="{{ site.baseurl }}/assets/json/final_pt2_Title_Budget_Basic.json" style="width: 100%"></vegachart>
+Source: Jacob Peterson's Jupyter Notebook (Hit "The Analysis" Button to Learn More!)
 
-Static Visual of Titles & Their Ratings:
+# Static Visual of Titles & Their Ratings:
 <vegachart schema-url="{{ site.baseurl }}/assets/json/final_pt2_Title_Rating_Basic.json" style="width: 100%"></vegachart> 
+Source: Jacob Peterson's Jupyter Notebook (Hit "The Analysis" Button to Learn More!)
 
-Static Visual of Titles & Their Ratings (Line Graph):
+# Static Visual of Titles & Their Ratings (Line Graph):
 <vegachart schema-url="{{ site.baseurl }}/assets/json/final_pt2_Title_Rating_Line.json" style="width: 100%"></vegachart>
+Source: Jacob Peterson's Jupyter Notebook (Hit "The Analysis" Button to Learn More!)
 
+The source to the data is linked below! Just click on "The Data"!
 
 <div class="left">
 {% include elements/button.html link="https://github.com/Zairzok/zairzok.github.io/blob/main/_data/movies.csv" text="The Data" %}
