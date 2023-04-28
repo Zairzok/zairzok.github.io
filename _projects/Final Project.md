@@ -28,19 +28,18 @@ Thank you for reading!
 
 Interactive Chart:
 <vegachart schema-url="{{ site.baseurl }}/assets/json/final_pt2_interactive_final.json" style="width: 100%"></vegachart>
-Description: 
+
+Interactive Chart:
+<vegachart schema-url="{{ site.baseurl }}/assets/json/final_pt2_interactive_test.json" style="width: 100%"></vegachart>
 
 Static Chart:
 <vegachart schema-url="{{ site.baseurl }}/assets/json/final_pt2_Title_Budget_Basic.json" style="width: 100%"></vegachart>
-Description: 
 
 Static Chart:
-<vegachart schema-url="{{ site.baseurl }}/assets/json/final_pt2_Title_Rating_Basic.json" style="width: 100%"></vegachart>
-Description: 
+<vegachart schema-url="{{ site.baseurl }}/assets/json/final_pt2_Title_Rating_Basic.json" style="width: 100%"></vegachart> 
 
 Static Chart:
 <vegachart schema-url="{{ site.baseurl }}/assets/json/final_pt2_Title_Rating_Line.json" style="width: 100%"></vegachart>
-Description: 
 
 
 <div class="left">
