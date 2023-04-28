@@ -26,7 +26,7 @@ Static Chart:
 Description: 
 
 Static Chart:
-<vegachart schema-url="{{ site.baseurl }}/assets/json/final_pt2_Title_Budget_Line.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/final_pt2_Title_Rating_Line.json" style="width: 100%"></vegachart>
 Description: 
 
 
